@@ -295,7 +295,9 @@ $string['navdesc'] = 'This setting specifies whether to show or hide navigation 
 $string['navpositionleft'] = 'Position of navigation buttons from left in pixels.';
 $string['navpositiontop'] = 'Position of navigation buttons from top in pixels.';
 $string['networkdropped'] = 'The SCORM player has determined that your Internet connection is unreliable or has been interrupted. If you continue in this SCORM activity, your progress may not be saved.<br />
-You should exit the activity now, and return when you have a dependable Internet connection.';
+You will be redirected to exit the activity now, and you can return when you have a dependable Internet connection.';
+$string['networkdroppedmobile'] = 'The SCORM player has determined that your Internet connection is unreliable or has been interrupted. If you continue in this SCORM activity, your progress may not be saved.<br />
+You will be redirected to exit the activity now, and you can return when you have a dependable Internet connection. You may wish to return to this activity in the mobile app for a more stable connection.';
 $string['newattempt'] = 'Start a new attempt';
 $string['next'] = 'Continue';
 $string['noactivity'] = 'Nothing to report';
